@@ -38,7 +38,7 @@ wrapper.style.justifyContent = 'center'
         }
         element.style.width = '15%'
         element.style.textAlign = 'center'
-        element.style.margin = '3px'
+        element.style.margin = '2px'
 
         if(i % 2 === 0){
             element.style.backgroundColor = '#5BBC7A'
@@ -92,7 +92,7 @@ function moreNumGen(){
         }
         element.style.width = '15%'
         element.style.textAlign = 'center'
-        element.style.margin = '3px'
+        element.style.margin = '2px'
 
         if(i % 2 === 0){
             element.style.backgroundColor = '#5BBC7A'
