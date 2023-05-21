@@ -23,6 +23,9 @@ h3{
     padding: 5px 0;
     color: #575757;
 }
+.hero{
+    margin-top: 8px;
+}
 input{
     width: 70%;
     padding: 10px;

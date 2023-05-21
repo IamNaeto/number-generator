@@ -23,7 +23,7 @@ wrapper.style.flexWrap = 'wrap'
 wrapper.style.alignItems = 'center'
 wrapper.style.justifyContent = 'center'
 
- for(let i=0; i<=50; i++){
+ for(let i=0; i<=20; i++){
 
         let element = document.createElement('p')
         element.style.fontSize = '2rem'
