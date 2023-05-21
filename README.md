@@ -1,9 +1,9 @@
 # Number Generator
 - A responsive web-app that generates colorful numbers based on the type of number provided in the input.
-    - At first it displays number 1 - 50
+    - At first it displays number 1 - 20
     - On receive of an input, it generates and display the number in the input field from the lowest which is zero to that particular number.
     
-        Live Link :: [Go Live](https://iamnaeto.github.io/bmi-calculator/)
+        Live Link :: [Go Live](https://iamnaeto.github.io/number-generator/)
     
 ## Author: Charles Obimnaeto Egesionu ##
 
